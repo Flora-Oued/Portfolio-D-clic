@@ -1,0 +1,78 @@
+.text {
+    text-align: center;
+    color: white;
+}
+
+.row {
+    border-radius: 10px;
+    color: brown;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+.mois{
+    text-align: center; 
+    color: white;"
+}
+.trait{
+    background-color: orangered;
+    width: 3px;
+    height: 300px;
+    margin-top: 20px;
+    text-align: center;
+    margin: 500px;
+}
+.photo{
+    margin: 50px;
+}
+
+.image{
+    margin-right: 50px;
+}
+.large{
+    background-color: orangered;
+    bottom: 50px;
+    width: 500px;
+    text-align: center;
+    height: 15px;
+    margin-left: 500px;
+
+}
+.ligne{
+    width: 10px;
+    height: 500px;
+    background-color: orangered;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -40;
+}
+.rond1{
+    display: block;
+    background-color:red ;
+    width: 30px;
+    height: 30px;
+    top: px;
+    right: 10px;
+    border-radius: 50px;
+    margin-bottom: 70px;
+    margin: -10px;
+    margin-top: 40px;
+}
+.rond2{
+    display: block;
+    background-color:blue ;
+    width: 30px;
+    height: 30px;
+    top: px;
+    right: 10px;
+    border-radius: 50px;
+    margin-bottom: 70px;
+    margin: -10px;
+    margin-top: 350px;
+    
+}
+ 
